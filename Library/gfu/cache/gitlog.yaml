@@ -1,0 +1,865 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-06-01T23:38:54.876-04:00
+  initializedAtString: 2018-06-01T23:29:35.436-04:00
+  log:
+  - commitID: 1e001c3aa6552d780244815909cfee48348e6537
+    mergeA: 
+    mergeB: 
+    authorName: Daniel Oelbaum
+    authorEmail: doelbaum@gmail.com
+    commitEmail: doelbaum@gmail.com
+    commitName: Daniel Oelbaum
+    summary: Added Building Tag
+    description: Added Building Tag
+    timeString: 2018-06-01T23:38:54.000-04:00
+    commitTimeString: 2018-06-01T23:38:54.000-04:00
+    changes:
+    - path: Assets\MovementTesting.unity
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\MovementTesting.unity
+      projectPath: Assets\MovementTesting.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a614bbfe1cc61a23721d01e0a45e9d214af2147d
+    mergeA: 
+    mergeB: 
+    authorName: Daniel Oelbaum
+    authorEmail: doelbaum@gmail.com
+    commitEmail: doelbaum@gmail.com
+    commitName: Daniel Oelbaum
+    summary: Initail Commit
+    description: Initail Commit
+    timeString: 2018-06-01T23:35:57.000-04:00
+    commitTimeString: 2018-06-01T23:35:57.000-04:00
+    changes:
+    - path: Assets\Materials.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Black I Guess.mat
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Black
+        I Guess.mat
+      projectPath: Assets\Materials\Black I Guess.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Black I Guess.mat.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Black
+        I Guess.mat.meta
+      projectPath: Assets\Materials\Black I Guess.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Green.mat
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Green.mat
+      projectPath: Assets\Materials\Green.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Green.mat.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Green.mat.meta
+      projectPath: Assets\Materials\Green.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Purple.mat
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Purple.mat
+      projectPath: Assets\Materials\Purple.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Purple.mat.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Purple.mat.meta
+      projectPath: Assets\Materials\Purple.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Yellow Kinda.mat
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Yellow
+        Kinda.mat
+      projectPath: Assets\Materials\Yellow Kinda.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Yellow Kinda.mat.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Materials\Yellow
+        Kinda.mat.meta
+      projectPath: Assets\Materials\Yellow Kinda.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MovementTesting.unity
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\MovementTesting.unity
+      projectPath: Assets\MovementTesting.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MovementTesting.unity.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\MovementTesting.unity.meta
+      projectPath: Assets\MovementTesting.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Song Selection Panel.prefab
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Prefabs\Song
+        Selection Panel.prefab
+      projectPath: Assets\Prefabs\Song Selection Panel.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Song Selection Panel.prefab.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Prefabs\Song
+        Selection Panel.prefab.meta
+      projectPath: Assets\Prefabs\Song Selection Panel.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Unit Creation Button.prefab
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Prefabs\Unit
+        Creation Button.prefab
+      projectPath: Assets\Prefabs\Unit Creation Button.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Unit Creation Button.prefab.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Prefabs\Unit
+        Creation Button.prefab.meta
+      projectPath: Assets\Prefabs\Unit Creation Button.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Resources.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Building.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Building.cs
+      projectPath: Assets\Scripts\Building.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Building.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Building.cs.meta
+      projectPath: Assets\Scripts\Building.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CameraControl.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\CameraControl.cs
+      projectPath: Assets\Scripts\CameraControl.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CameraControl.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\CameraControl.cs.meta
+      projectPath: Assets\Scripts\CameraControl.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Factions.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Factions.meta
+      projectPath: Assets\Scripts\Factions.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Factions\Humans.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Factions\Humans.meta
+      projectPath: Assets\Scripts\Factions\Humans.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Factions\Humans\Worker.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Factions\Humans\Worker.cs
+      projectPath: Assets\Scripts\Factions\Humans\Worker.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Factions\Humans\Worker.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Factions\Humans\Worker.cs.meta
+      projectPath: Assets\Scripts\Factions\Humans\Worker.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\GameManager.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\GameManager.cs
+      projectPath: Assets\Scripts\GameManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\GameManager.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\GameManager.cs.meta
+      projectPath: Assets\Scripts\GameManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Player.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Player.cs
+      projectPath: Assets\Scripts\Player.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Player.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Player.cs.meta
+      projectPath: Assets\Scripts\Player.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\RTSResource.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\RTSResource.cs
+      projectPath: Assets\Scripts\RTSResource.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\RTSResource.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\RTSResource.cs.meta
+      projectPath: Assets\Scripts\RTSResource.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Resource.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Resource.cs
+      projectPath: Assets\Scripts\Resource.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Resource.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Resource.cs.meta
+      projectPath: Assets\Scripts\Resource.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\TownCenter.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\TownCenter.cs
+      projectPath: Assets\Scripts\TownCenter.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\TownCenter.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\TownCenter.cs.meta
+      projectPath: Assets\Scripts\TownCenter.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI.meta
+      projectPath: Assets\Scripts\UI.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\ScrollBarIncrementer.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\ScrollBarIncrementer.cs
+      projectPath: Assets\Scripts\UI\ScrollBarIncrementer.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\ScrollBarIncrementer.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\ScrollBarIncrementer.cs.meta
+      projectPath: Assets\Scripts\UI\ScrollBarIncrementer.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\TownCenterUI.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\TownCenterUI.cs
+      projectPath: Assets\Scripts\UI\TownCenterUI.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\TownCenterUI.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\TownCenterUI.cs.meta
+      projectPath: Assets\Scripts\UI\TownCenterUI.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\UIDisplay.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\UIDisplay.cs
+      projectPath: Assets\Scripts\UI\UIDisplay.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\UIDisplay.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\UIDisplay.cs.meta
+      projectPath: Assets\Scripts\UI\UIDisplay.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\UIManager.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\UIManager.cs
+      projectPath: Assets\Scripts\UI\UIManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\UIManager.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\UIManager.cs.meta
+      projectPath: Assets\Scripts\UI\UIManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\UnitCreationButton.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\UnitCreationButton.cs
+      projectPath: Assets\Scripts\UI\UnitCreationButton.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UI\UnitCreationButton.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UI\UnitCreationButton.cs.meta
+      projectPath: Assets\Scripts\UI\UnitCreationButton.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UIScreen.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UIScreen.cs
+      projectPath: Assets\Scripts\UIScreen.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\UIScreen.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\UIScreen.cs.meta
+      projectPath: Assets\Scripts\UIScreen.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Unit.cs
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Unit.cs
+      projectPath: Assets\Scripts\Unit.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Unit.cs.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Scripts\Unit.cs.meta
+      projectPath: Assets\Scripts\Unit.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree.prefab
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree.prefab
+      projectPath: Assets\Tree.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree.prefab.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree.prefab.meta
+      projectPath: Assets\Tree.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures.meta
+      projectPath: Assets\Tree_Textures.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\diffuse.png
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\diffuse.png
+      projectPath: Assets\Tree_Textures\diffuse.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\diffuse.png.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\diffuse.png.meta
+      projectPath: Assets\Tree_Textures\diffuse.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\normal_specular.png
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\normal_specular.png
+      projectPath: Assets\Tree_Textures\normal_specular.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\normal_specular.png.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\normal_specular.png.meta
+      projectPath: Assets\Tree_Textures\normal_specular.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\shadow.png
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\shadow.png
+      projectPath: Assets\Tree_Textures\shadow.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\shadow.png.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\shadow.png.meta
+      projectPath: Assets\Tree_Textures\shadow.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\translucency_gloss.png
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\translucency_gloss.png
+      projectPath: Assets\Tree_Textures\translucency_gloss.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\translucency_gloss.png.meta
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\Tree_Textures\translucency_gloss.png.meta
+      projectPath: Assets\Tree_Textures\translucency_gloss.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: UnityPackageManager\manifest.json
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\UnityPackageManager\manifest.json
+      projectPath: UnityPackageManager\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 33079920f8b39bb522ccfccac6d9ac1c26f4cd03
+    mergeA: 
+    mergeB: 
+    authorName: Daniel Oelbaum
+    authorEmail: doelbaum@gmail.com
+    commitEmail: doelbaum@gmail.com
+    commitName: Daniel Oelbaum
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-06-01T23:29:34.000-04:00
+    commitTimeString: 2018-06-01T23:29:34.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\GameDev\_Projects\Unity\RTS Video Game Program\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
